@@ -1,0 +1,8 @@
+# Ignore directories
+extracted_faces/
+test_images/
+venv/
+
+# Ignore specific files
+face_Balaji.jpg
+Balaji.jpg
